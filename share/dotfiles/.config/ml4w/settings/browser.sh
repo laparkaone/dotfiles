@@ -1,1 +1,1 @@
-firefox
+brave --password-store=kwallet6

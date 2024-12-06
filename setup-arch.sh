@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 
-repo="mylinuxforwork/dotfiles"
+repo="laparkaone/dotfiles"
 
 # Get latest tag from GitHub
 get_latest_release() {
